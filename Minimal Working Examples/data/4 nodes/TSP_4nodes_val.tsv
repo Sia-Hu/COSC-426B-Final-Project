@@ -1,0 +1,51 @@
+text
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 83, AC is 51, AD is 64, BC is 32, BD is 21, CD is 14
+
+Optimal Route: A-C-B-D-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 33, AC is 72, AD is 52, BC is 52, BD is 62, CD is 54
+
+Optimal Route: A-B-C-D-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 64, AC is 44, AD is 31, BC is 47, BD is 78, CD is 38
+
+Optimal Route: A-D-C-B-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 11, AC is 14, AD is 71, BC is 15, BD is 61, CD is 73
+
+Optimal Route: A-B-D-C-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 53, AC is 92, AD is 118, BC is 58, BD is 65, CD is 58
+
+Optimal Route: A-B-D-C-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 67, AC is 74, AD is 67, BC is 9, BD is 50, CD is 58
+
+Optimal Route: A-D-B-C-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 64, AC is 59, AD is 36, BC is 19, BD is 44, CD is 51
+
+Optimal Route: A-D-B-C-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 56, AC is 24, AD is 44, BC is 51, BD is 13, CD is 38
+
+Optimal Route: A-C-D-B-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 102, AC is 57, AD is 82, BC is 67, BD is 20, CD is 51
+
+Optimal Route: A-C-B-D-A"
+"You will visit 4 cities named A to D. You must visit each city once and return to the starting city A at the end. I will provide you with the distance between each pair of cities. Note that the distance from city X to city Y is the same as from Y to X. Your task is to find the visiting order for the stations that minimizes the total distance you will travel to finish the journey. The answer format should be connecting the cities in order with -.
+
+Distances: AB is 15, AC is 72, AD is 47, BC is 84, BD is 57, CD is 84
+
+Optimal Route: A-B-D-C-A"

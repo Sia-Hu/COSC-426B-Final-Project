@@ -1,0 +1,17 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_causal_model:
+      - gpt2
+
+predfpath: ../TSP_4_pred.tsv
+
+datafpath: ../TSP_4nodes_test.tsv
+
+resultsfpath: ../TSP_4_results.tsv
+
+save: by_cond

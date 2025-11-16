@@ -1,0 +1,19 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_causal_model:
+      - meta-llama/Meta-Llama-3-8B
+      
+predfpath: /home/xhu/COSC426/TSP_llama_pred.tsv
+
+datafpath: /home/xhu/COSC426/TSP_test.tsv
+
+resultsfpath: /home/xhu/COSC426/TSP_llama_results.tsv
+
+save: by_cond
+
+device: cuda

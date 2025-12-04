@@ -21,13 +21,21 @@ COSC-426B-Final-Project/
 │   ├── 4nodes/
 │   ├── 8nodes/
 │   ├── 16nodes/ 
-│   └── CoT/    
+│   └── CoT/ 
+├── config&results/
+│   ├──TSP_CoT_8/ 
+│   ├──TSP_llama_4/   
+│   ├──TSP_llama_8/   
+│   ├──TSP_llama_16/   
+│   ├──TSP_llama_instruct_4/   
+│   ├──TSP_llama_instruct_8/   
+│   └──TSP_llama_instruct_16/   
 └── README.md                 # This file
 ```
 
 ## Data Preprocessing
 
-This section outlines the complete pipeline for transforming raw Traveling Salesperson Problem (TSP) instances into the minimal pair `.tsv` format required by the NLPscholar framework.
+This section outlines the complete pipeline for transforming raw Traveling Salesperson Problem (TSP) instances into the minimal pair `.tsv` format required by the [NLPscholar](https://github.com/forrestdavis/NLPScholar) framework.
 
 ### Overview
 

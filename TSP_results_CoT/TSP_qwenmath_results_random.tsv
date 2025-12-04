@@ -1,0 +1,2 @@
+	model	acc	diff	expected	unexpected	macrodiff
+0	Qwen/Qwen2.5-Math-7B-Instruct	0.57	-0.004630071818694661	3.059498301663924	3.064128373482619	-0.004630071818694681

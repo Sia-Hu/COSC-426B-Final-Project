@@ -1,0 +1,19 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_causal_model:
+      - Qwen/Qwen3-4B-Thinking-2507
+      
+predfpath: /home/xhu/COSC426/TSP_qwen_pred_greedy.tsv
+
+datafpath: /home/xhu/COSC426/TSP_llama_instruct/TSP_8nodes_test_suboptimal_COT.tsv
+
+resultsfpath: /home/xhu/COSC426/TSP_qwen_results_greedy.tsv
+
+save: by_cond
+
+device: cuda

@@ -1,0 +1,19 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_causal_model:
+      - Qwen/Qwen2.5-Math-7B-Instruct
+      
+predfpath: /home/xhu/COSC426/TSP_qwenmath_pred_suboptimal.tsv
+
+datafpath: /home/xhu/COSC426/TSP_llama_instruct/TSP_8nodes_test_suboptimal_COT.tsv
+
+resultsfpath: /home/xhu/COSC426/TSP_qwenmath_results_suboptimal.tsv
+
+save: by_cond
+
+device: cuda

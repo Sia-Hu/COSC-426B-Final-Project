@@ -1,0 +1,19 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+    hf_causal_model:
+      - vicgalle/gpt2-open-instruct-v1
+      
+predfpath: /home/xhu/COSC426/TSP_gpt2_pred_random.tsv
+
+datafpath: /home/xhu/COSC426/TSP_llama_instruct/TSP_8nodes_test_random_COT.tsv
+
+resultsfpath: /home/xhu/COSC426/TSP_gpt2_results_random.tsv
+
+save: by_cond
+
+device: cuda

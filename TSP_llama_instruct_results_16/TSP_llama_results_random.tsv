@@ -1,0 +1,2 @@
+	model	acc	diff	expected	unexpected	macrodiff
+0	meta-llama/Llama-3.1-8B-Instruct	0.525	-0.0010169200085918117	1.453865104744874	1.4548820247534657	-0.0010169200085916597

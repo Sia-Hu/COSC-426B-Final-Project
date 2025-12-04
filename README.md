@@ -5,14 +5,23 @@ Code and dataset for Sia and Christine's final project for Fall 2025: COSC 426B 
 
 ```
 COSC-426B-Final-Project/
-├── Minimal Working Examples/  # For proposal
+├── Code Draft/  # Minimal Working Examples
 │   ├── data/
         ├── 4 nodes/ 
         ├── 15 nodes/                     
 │   ├── predictions/                   
 │   ├── results/                   
-│   ├── config files/                   
-│   └── turing submission/          
+│   ├── config files/
+│   ├── turing submission/
+│   ├── llama/                   
+│   └── ortool_data_generation/   
+├── dataset/
+│   ├── sub_random_valid_min_greedy_instruct.py # MinimalPair generation script
+│   ├── sub_random_COT.py # CoT instances generation script
+│   ├── 4nodes/
+│   ├── 8nodes/
+│   ├── 16nodes/ 
+│   └── CoT/    
 └── README.md                 # This file
 ```
 

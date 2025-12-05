@@ -95,7 +95,7 @@ The evaluation process relies on two main files produced by the framework: `resu
 
 Our main evaluation metric is **accuracy**, which is automatically computed by the NLP-Scholar framework.
 
-### 2. Detailed Analysis: Probabilities and Error Inspection
+### 2. Potential Detailed Analysis: Probabilities and Error Inspection
 
 To understand *why* a model succeeds or fails, we also conduct a more detailed, qualitative analysis using the raw prediction scores.
 
